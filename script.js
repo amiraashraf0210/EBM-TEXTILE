@@ -1,3 +1,5 @@
+// Developed by Amira Ashraf
+
 // Navigation scroll effect
 const navbar = document.querySelector('.navbar');
 const navMenu = document.getElementById('navMenu');
