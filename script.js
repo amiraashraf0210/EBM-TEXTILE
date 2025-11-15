@@ -243,3 +243,5 @@ document.addEventListener('DOMContentLoaded', () => {
         initCarousel(productionFacilitiesCarousel);
     }
 });
+
+console.log("Website developed by Amira Ashraf ❤️");
